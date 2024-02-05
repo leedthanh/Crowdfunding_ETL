@@ -12,10 +12,7 @@ To create a database.  inspect the four csv and sketch an ERD of the tables by u
 
 
 ## Files ##
-
-Downloaded the following files to get started:
-
-Project 2 ETL files[files](https://bootcampspot.instructure.com/courses/3819/assignments/56688?module_item_id=1000101)
+CSV files are located in the Resources folder.
 
 ## Crowdfunding ##
 
